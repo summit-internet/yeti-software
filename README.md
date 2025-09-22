@@ -4,6 +4,7 @@ Yeti .deb files - Golden Masters
 * Store Yeti .deb files in case upstream repository goes offline
 * Allow for install of the same version as currently installed in case version is removed from repository
     * This has occurred recently - CFS
+* yeti-web is in a separate directory due to using LFS
 
 ## Software and Versions
 
