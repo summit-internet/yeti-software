@@ -1,4 +1,4 @@
-# yeti-software# yeti-debs
+# Yeti Software
 Yeti .deb files - Golden Masters
 
 * Store Yeti .deb files in case upstream repository goes offline
